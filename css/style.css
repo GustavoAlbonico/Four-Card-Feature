@@ -67,7 +67,7 @@ mark {
     width: 350px;
     border-top: 5px solid;
     border-radius: 5px;
-    box-shadow: 0px 10px 10px 8px rgba(114, 116, 214, 0.1)
+    box-shadow: 0px 10px 25px 0px rgba(0, 47, 255, 0.2);
 }
 
 .card h2 {
